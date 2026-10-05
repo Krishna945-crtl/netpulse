@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/DeviceCard.tsx","./src/components/DeviceDrawer.tsx","./src/components/FilterBar.tsx","./src/components/Sparkline.tsx","./src/components/StatsBar.tsx","./src/components/StatusBadge.tsx","./src/data/devices.ts","./src/hooks/useDevices.ts"],"version":"5.9.3"}
